@@ -1,3 +1,8 @@
+---
+title: Ubuntu安装NVIDIA显卡驱动循环登录解决方法
+date: 2017-10-11 12:08:06
+tags: 
+---
 # 前言
 
 实验室电脑配置环境Ubuntu16.04+cuda8.0+cudnn5.0，
