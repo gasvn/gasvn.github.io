@@ -1,7 +1,7 @@
 ---
 title: Ubuntu安装NVIDIA显卡驱动循环登录解决方法
 date: 2017-10-11 12:08:06
-tags: 
+tags:
 ---
 # 前言
 
