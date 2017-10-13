@@ -18,7 +18,7 @@ tags:
 # 问题声明
 
 在ubutnu上配置cuda时需要安装nvidia的驱动，所以在安装了驱动后出现了进入Ubuntu循环登录的问题。为了使用intel核显和NVIDIA独显。
-
+<!-- more -->
 # 问题解释（大概）
 
 以下属于我的猜测

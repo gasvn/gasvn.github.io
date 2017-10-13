@@ -3,7 +3,8 @@ title: Tips of  OpenCV
 date: 2017-10-13 13:14:01
 tags:
 ---
-
+# OpenCV的使用方法积累
+<!-- more -->
 - 限制数字的范围到256以内
 
         saturate_cast<uchar>(a);
