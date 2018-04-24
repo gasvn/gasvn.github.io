@@ -7,9 +7,9 @@ tags:
 
 # High-efficient beam-converging for UCA based radio vortex wireless communications
 ## Our propsed OAM beam converging model.
-![img](img/oamconverge.png)
+![img](imgs/oamconverge.png)
 ## Effect of the OMA beam convergence.
-![img](img/oamconvergeeffect.png)
+![img](imgs/oamconvergeeffect.png)
 
 
 
