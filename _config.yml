@@ -82,5 +82,4 @@ deploy:
   type: git
   repo: 
     github: git@github.com:gasvn/gasvn.github.io.git
-    coding: git@e.coding.net:gasvn/shgao.site.git
   branch: master
