@@ -1,6 +1,7 @@
 ---
 title: bioagent
 date: 2024-10-10 15:51:16
+permalink: /bioagent/
 tags:
 ---
 
