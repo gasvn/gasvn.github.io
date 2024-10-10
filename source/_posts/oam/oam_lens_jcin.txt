@@ -1,6 +1,0 @@
-@article{gao2019bifocal,
-  title={Bifocal-Lens Converging Based OAM Wireless Communications},
-  author={Gao, Shanghua and Cheng, Wenchi and Zhang, Hailin},
-  journal={IEEE Journal of Communications and Information Networks}, 
-  year={2019}
-}
