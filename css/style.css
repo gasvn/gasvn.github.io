@@ -534,6 +534,21 @@ a:hover, a:active, a:focus {
     margin-bottom: 5px;
   }
 
+  #home .container {
+    padding: 20px 15px;
+  }
+
+  #home .col-md-8 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  #home p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+
 }
 
 
@@ -545,6 +560,26 @@ a:hover, a:active, a:focus {
 
   .about-thumb .social-icon {
     margin-bottom: 15px;
+  }
+
+  #home .container {
+    padding: 15px 10px;
+  }
+
+  #home .col-md-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  #home p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+  }
+
+  #home h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
   }
 
 }
