@@ -145,7 +145,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact {
-  #text-align: center;
+  text-align: center;
 }
 
 
@@ -482,19 +482,29 @@ a:hover, a:active, a:focus {
 
 @media (min-width: 768px) and (max-width: 1024px) {
   #home {
-    height: 50vh;
+    height: auto;
+    min-height: 50vh;
+    padding-top: 80px;
   }
 }
 
 @media (min-width: 667px) and (max-width: 767px) {
   #home {
-    height: 140vh;
+    height: auto;
+    min-height: auto;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    align-items: flex-start;
   }
 }
 
 @media (min-width: 568px) and (max-width: 665px) {
   #home {
-    height: 190vh;
+    height: auto;
+    min-height: auto;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    align-items: flex-start;
   }
 }
 
@@ -534,6 +544,14 @@ a:hover, a:active, a:focus {
     margin-bottom: 5px;
   }
 
+  #home {
+    height: auto;
+    min-height: auto;
+    padding-top: 120px;
+    padding-bottom: 40px;
+    align-items: flex-start;
+  }
+
   #home .container {
     padding: 20px 15px;
   }
@@ -549,6 +567,27 @@ a:hover, a:active, a:focus {
     margin-bottom: 15px;
   }
 
+  #work {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+}
+
+
+@media (max-width: 567px) {
+
+  #home {
+    padding-top: 140px;
+    padding-bottom: 40px;
+    align-items: flex-start;
+  }
+
+  #work {
+    padding-top: 80px;
+    padding-bottom: 60px;
+  }
+
 }
 
 
@@ -560,6 +599,11 @@ a:hover, a:active, a:focus {
 
   .about-thumb .social-icon {
     margin-bottom: 15px;
+  }
+
+  #home {
+    padding-top: 150px;
+    padding-bottom: 30px;
   }
 
   #home .container {
@@ -582,6 +626,11 @@ a:hover, a:active, a:focus {
     margin-bottom: 10px;
   }
 
+  #work {
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+
 }
 
 
@@ -594,6 +643,16 @@ a:hover, a:active, a:focus {
   #about .col-md-4 a {
     width: 85px;
     height: 85px;
+  }
+
+  #home {
+    padding-top: 160px;
+    padding-bottom: 25px;
+  }
+
+  #work {
+    padding-top: 80px;
+    padding-bottom: 40px;
   }
 
 }
