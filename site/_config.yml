@@ -110,6 +110,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: 
+  repo:
     github: git@github.com:gasvn/gasvn.github.io.git
   branch: master
+  ignore_hidden: false
